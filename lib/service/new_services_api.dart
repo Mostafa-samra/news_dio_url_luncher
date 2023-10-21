@@ -1,5 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:myexame/models/newsresponse.dart';
+import 'package:news_dio_url_luncher/models/newsresponse.dart';
+
 
 class NewsApiService {
   static String apiKey = '220df185e3c34419bcce6fb2f20086ac';

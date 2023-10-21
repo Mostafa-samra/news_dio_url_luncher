@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myexame/models/newsresponse.dart';
-import 'package:myexame/service/new_services_api.dart';
+import 'package:news_dio_url_luncher/models/newsresponse.dart';
+import 'package:news_dio_url_luncher/service/new_services_api.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 void main() {
